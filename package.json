@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Altcoin-Cash/proposal-generator#readme",
   "devDependencies": {
-    "@Altcoin-Cash/helpthehomeless-lib": "^0.16.8",
+    "https://github.com/Altcoin-Cash/helpthehomeless-lib": "^0.16.8",
     "browserify": "^16.2.3",
     "eslint": "^5.13.0"
   }
